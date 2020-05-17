@@ -1,0 +1,57 @@
+第一次執行程式：
+
+1.先將Cartesian2丟到此資料夾
+
+2.進入IrisCollection\for_redistribution執行MyAppInstaller_web.exe來安裝需要的程式
+
+3.請看PPT"安裝說明"
+
+3.開啟主資料夾中的IrisCollection.exe進入程式
+
+如果遇到index exceeds matrix dimensions
+        Error in = > IrisCollection.m at line 16
+        :請檢查Cartesian2內容及資料夾檔名是否正確
+
+如果遇到Unable to read file 'C:\...\IrisCollection\Array.mat'.No such file or directory.
+        Error in = > IrisCollection.m at line 16
+        :請檢查資料夾內是否有Array.mat這個檔案
+
+之後執行程式：
+
+1.開啟IrisCollection.exe進入程式即可
+
+放大圖片的使用方式：
+
+1.放大圖片的使用請先點左上角想取的座標再點右下角想點的座標才能正確使用
+
+注意事項：
+
+1.按下放大圖片後在成功放大圖片之前請不要點選其他按鈕，容易造成程式崩潰
+
+2.程式內建每兩分鐘會自動存檔
+
+  但存檔習慣還是隨時都要有喔！
+
+3.第一次放大圖片的時候程式會執行比較長的時間
+
+  稍等程式最久一分鐘就可以準備完畢
+
+4.開啟此檔案時即會自動讀取先前儲存的資料
+
+  且儲存的資料存於Array.mat
+
+  這個檔案不見會造成程式無法執行以及存檔消失
+
+5.不要移動IrisCollection這個資料夾內的檔案
+
+  會造成程式讀不到資料
+
+  但可以整個資料夾(IrisCollection)一起移動
+
+如果遇到問題隨時可以寄信給我!
+
+中央大學機器學習與生物辨識實驗室
+
+曹嘉豪
+
+email:z19970615@gmail.com
